@@ -1,0 +1,17 @@
+.nav-container .nav-button{
+    height: 0.6rem;
+    border-radius: 45px;
+    width: 2rem;
+    padding: 1.6rem;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2DAE50;
+}
+.nav-container .nav-button .menu{
+    position: absolute;
+}    
+.nav-container .nav-button:hover{
+    cursor: pointer;
+}
